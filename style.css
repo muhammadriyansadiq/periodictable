@@ -1,0 +1,27 @@
+/* body{
+    font-size: 25px;
+}
+#head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+/* head{
+
+} */
+.one{
+    border: 2px solid black;
+}
+#p{
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid rgb(37, 215, 31);
+    background-color: rgb(221, 114, 247);
+    height: 130px;
+}
+#bodi{
+    margin: -110px -110px -110px -110px;
+    padding-bottom: -100px;
+}
